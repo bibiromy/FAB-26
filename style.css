@@ -1,0 +1,51 @@
+.head-line{
+    font-size: 70px;
+    font-weight: bolder;
+    text-align: center;
+}
+.p-tomato{
+    background-color: tomato;
+    height: 20px;
+    width:45%;
+display: inline-block;   
+}
+.p-green{
+    background-color: green;
+    height: 20px;
+    width: 15%;
+   display: inline-block;
+}
+.p-blue{
+    background-color: skyblue;
+    height: 20px;
+    width: 38% ;
+    display: inline-block;
+}
+.p{
+    border: 1px solid black;
+    height:300px ;
+    width:22%;
+    font-size: 20px;
+    display: inline-block;
+}
+.t{
+    background-color: tomato;
+    height: 100px;
+    width: 45%;
+    border: 10px double  chocolate ;
+    display: inline-block;
+}
+.g{
+    background-color: green;
+    height:100px;
+    width: 18%;
+    border: 10px solid darkgreen;
+    display: inline-block;
+}
+.sky{
+    background-color:skyblue;
+    height:100px;
+    width:30%;
+    border: 10px dashed darkcyan;
+    display: inline-block;
+}
